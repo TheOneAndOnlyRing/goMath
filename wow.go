@@ -1,4 +1,4 @@
-package main
+package wow
 
 import (
 	"fmt"
